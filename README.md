@@ -2,7 +2,7 @@
 A console application written in C++ to simulate Vending Machine functionality. 
 
 Features:
-- 2D LinkedList, various containers (vectors, maps) to support:
+- 2D Linked List, various containers (vectors, maps) to support:
     - Menu item navigation
     - Cash handling
     - Stock management, purchase tracking, change dispensing. 
@@ -17,8 +17,6 @@ This will compile the source files and create an exectuable named 'ppd'.
 To run: `./ppd stock_2DLL.dat coins.dat`
 
 ### Contributors:
-Ronald Ho
+This was a team project with contributions from Ronald Ho, Anthony Imani and Peter Wu.
 
-Anthony Imani 
-
-Peter Wu
+2D Linked List data structure is an enhancement implemented individually by Ronald Ho. 
