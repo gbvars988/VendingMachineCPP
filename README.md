@@ -17,6 +17,8 @@ This will compile the source files and create an exectuable named 'ppd'.
 To run: `./ppd stock_2DLL.dat coins.dat`
 
 ### Contributors:
+Ronald Ho
+
 Anthony Imani 
 
 Peter Wu
