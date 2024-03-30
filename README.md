@@ -6,14 +6,15 @@ Features:
     - Menu item navigation
     - Cash handling
     - Stock management, purchase tracking, change dispensing.
+  
 With a focus on practising:
-    - ADTs
-    - Linked Lists
-    - Pointers
-    - Dynamic Memory Management
-    - File Processing
-    - Program State Management
-    - Exception Handling
+- ADTs
+- Linked Lists
+- Pointers
+- Dynamic Memory Management
+- File Processing
+- Program State Management
+- Exception Handling
 
 ## Build Instructions
 To build the project, ensure you have a C++14-compatible compiler installed. Then, run the following command in the src directory:
