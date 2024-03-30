@@ -1,0 +1,83 @@
+Main Menu:
+		1. Display Items
+		2. Purchase Item
+		3. Save and Exit
+Administrator-Only Menu:
+		4. Add Item
+		5. Remove Item
+		6. Display Coins
+		7. Reset Stock
+		8. Reset Coins
+		9. Abort Program
+
+Select your option (1-9): 
+
+Coins Summary
+-------------
+Denomination   |   Count
+-------------------------
+5c             |       20
+10c            |       40
+20c            |       3
+50c            |       5
+$1             |       30
+$2             |       20
+$5             |       4
+$10            |       3
+
+Main Menu:
+		1. Display Items
+		2. Purchase Item
+		3. Save and Exit
+Administrator-Only Menu:
+		4. Add Item
+		5. Remove Item
+		6. Display Coins
+		7. Reset Stock
+		8. Reset Coins
+		9. Abort Program
+
+Select your option (1-9): 
+
+All coins have been reset to the defaul level of 20
+Main Menu:
+		1. Display Items
+		2. Purchase Item
+		3. Save and Exit
+Administrator-Only Menu:
+		4. Add Item
+		5. Remove Item
+		6. Display Coins
+		7. Reset Stock
+		8. Reset Coins
+		9. Abort Program
+
+Select your option (1-9): 
+
+Coins Summary
+-------------
+Denomination|   Count   
+-------------------------
+5c             |       20
+10c            |       20
+20c            |       20
+50c            |       20
+$1             |       20
+$2             |       20
+$5             |       20
+$10            |       20
+
+Main Menu:
+		1. Display Items
+		2. Purchase Item
+		3. Save and Exit
+Administrator-Only Menu:
+		4. Add Item
+		5. Remove Item
+		6. Display Coins
+		7. Reset Stock
+		8. Reset Coins
+		9. Abort Program
+
+Select your option (1-9): 
+

@@ -1,0 +1,107 @@
+Main Menu:
+		1. Display Items
+		2. Purchase Item
+		3. Save and Exit
+Administrator-Only Menu:
+		4. Add Item
+		5. Remove Item
+		6. Display Coins
+		7. Reset Stock
+		8. Reset Coins
+		9. Abort Program
+
+Select your option (1-9): 
+
+Items Menu
+----------
+ID     |Name                                    | Available  | Price
+------------------------------------------------------------------
+I0002  |Apple Pie                               |20          |$ 3.00
+I0006  |Coffee(Flat White)                      |30          |$ 5.00
+I0006-1|Latte                                   |24          |$ 5.00
+I0006-2|Espresso                                |22          |$ 4.50
+I0006-3|Cappuccino                              |19          |$ 5.00
+I0006-4|Mocha                                   |11          |$ 5.50
+I0003  |Lemon Cheesecake                        |20          |$ 4.00
+I0004  |Lemon Meringue Pie                      |20          |$ 3.00
+I0001  |Meat Pie                                |20          |$ 3.50
+I0001-1|Steak and Cheese Pie                    |15          |$ 4.50
+I0001-2|Chicken and Mushroom Pie                |20          |$ 3.90
+I0005  |Original Tart                           |19          |$ 3.75
+I0005-1|Cherry Tart                             |20          |$ 4.00
+I0005-2|Custard Tart                            |21          |$ 4.10
+I0005-3|Mint Tart                               |5           |$ 3.80
+
+Main Menu:
+		1. Display Items
+		2. Purchase Item
+		3. Save and Exit
+Administrator-Only Menu:
+		4. Add Item
+		5. Remove Item
+		6. Display Coins
+		7. Reset Stock
+		8. Reset Coins
+		9. Abort Program
+
+Select your option (1-9): 
+
+Would you like to add an item to an existing category? (enter 'yes' or 'no')
+
+The id of the new stock will be: I0007
+Enter the item name:  
+
+Enter the item description : 
+
+Enter the price for the item: 
+
+This item "Bread roll - A crispy buttery glazed bread roll" has now been added to the menu.
+Main Menu:
+		1. Display Items
+		2. Purchase Item
+		3. Save and Exit
+Administrator-Only Menu:
+		4. Add Item
+		5. Remove Item
+		6. Display Coins
+		7. Reset Stock
+		8. Reset Coins
+		9. Abort Program
+
+Select your option (1-9): 
+
+Items Menu
+----------
+ID     |Name                                    | Available  | Price
+------------------------------------------------------------------
+I0002  |Apple Pie                               |20          |$ 3.00
+I0007  |Bread roll                              |20          |$ 2.50
+I0006  |Coffee(Flat White)                      |30          |$ 5.00
+I0006-1|Latte                                   |24          |$ 5.00
+I0006-2|Espresso                                |22          |$ 4.50
+I0006-3|Cappuccino                              |19          |$ 5.00
+I0006-4|Mocha                                   |11          |$ 5.50
+I0003  |Lemon Cheesecake                        |20          |$ 4.00
+I0004  |Lemon Meringue Pie                      |20          |$ 3.00
+I0001  |Meat Pie                                |20          |$ 3.50
+I0001-1|Steak and Cheese Pie                    |15          |$ 4.50
+I0001-2|Chicken and Mushroom Pie                |20          |$ 3.90
+I0005  |Original Tart                           |19          |$ 3.75
+I0005-1|Cherry Tart                             |20          |$ 4.00
+I0005-2|Custard Tart                            |21          |$ 4.10
+I0005-3|Mint Tart                               |5           |$ 3.80
+
+Main Menu:
+		1. Display Items
+		2. Purchase Item
+		3. Save and Exit
+Administrator-Only Menu:
+		4. Add Item
+		5. Remove Item
+		6. Display Coins
+		7. Reset Stock
+		8. Reset Coins
+		9. Abort Program
+
+Select your option (1-9): 
+
